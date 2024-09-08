@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "..." << std::endl;
+    std::cout << "Hello World" << std::endl;
     // Instead of '...', write "Hello World" within quotes
     return 0;
 }
